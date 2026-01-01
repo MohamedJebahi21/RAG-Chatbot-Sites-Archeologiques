@@ -1,0 +1,36 @@
+================================================================================
+DOCUMENT #4
+================================================================================
+
+MÉTADONNÉES:
+--------------------------------------------------------------------------------
+Titre: Dougga
+Site: Dougga
+Période: Punique, Romain, Byzantin, Berbère
+Source: Wikipedia EN
+Type: encyclopedia
+Langue: en
+URL: https://en.wikipedia.org/wiki/Dougga
+Date de collecte: 2025-12-11T20:36:23.810368
+Nombre de mots: 125
+--------------------------------------------------------------------------------
+
+CONTENU:
+================================================================================
+
+Dougga or Thugga or TBGG was a Berber, Punic and Roman settlement near present-day Téboursouk in northern Tunisia. The current archaeological site covers 75 hectares. UNESCO qualified Dougga as a World Heritage Site in 1997, believing that it represents "the best-preserved Roman small town in North Africa". The site, which lies in the middle of the countryside, has been protected from the encroachment of modern urbanization, in contrast, for example, to Carthage, which has been pillaged and rebuilt on numerous occasions. Dougga's size, its well-preserved monuments and its rich Numidian-Berber, Punic, ancient Roman, and Byzantine history make it exceptional. Amongst the most famous monuments at the site are a Libyco-Punic Mausoleum, the Capitol, the Roman theatre, and the temples of Saturn and of Juno Caelestis.
+
+
+================================================================================
+SECTIONS:
+================================================================================
+
+
+[Introduction]
+--------------------------------------------------------------------------------
+Dougga or Thugga or TBGG was a Berber, Punic and Roman settlement near present-day Téboursouk in northern Tunisia
+The current archaeological site covers 75 hectares
+UNESCO qualified Dougga as a World Heritage Site in 1997, believing that it represents "the best-preserved Roman small town in North Africa"
+The site, which lies in the middle of the countryside, has been protected from the encroachment of modern urbanization, in contrast, for example, to Carthage, which has been pillaged and rebuilt on numerous occasions
+Dougga's size, its well-preserved monuments and its rich Numidian-Berber, Punic, ancient Roman, and Byzantine history make it exceptional
+Amongst the most famous monuments at the site are a Libyco-Punic Mausoleum, the Capitol, the Roman theatre, and the temples of Saturn and of Juno Caelestis

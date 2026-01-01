@@ -1,0 +1,33 @@
+================================================================================
+DOCUMENT #16
+================================================================================
+
+MÉTADONNÉES:
+--------------------------------------------------------------------------------
+Titre: Sbeitla
+Site: Sbeitla
+Période: Romain, Islamique
+Source: Wikipedia EN
+Type: encyclopedia
+Langue: en
+URL: https://en.wikipedia.org/wiki/Sbeitla
+Date de collecte: 2025-12-11T20:36:37.373916
+Nombre de mots: 37
+--------------------------------------------------------------------------------
+
+CONTENU:
+================================================================================
+
+Sbeitla is a small town in west-central Tunisia. Nearby are the Roman ruins of Sufetula, containing the best preserved Roman forum temples in the country. It was the entry point of the Muslim conquest of North Africa.
+
+
+================================================================================
+SECTIONS:
+================================================================================
+
+
+[Introduction]
+--------------------------------------------------------------------------------
+Sbeitla is a small town in west-central Tunisia
+Nearby are the Roman ruins of Sufetula, containing the best preserved Roman forum temples in the country
+It was the entry point of the Muslim conquest of North Africa

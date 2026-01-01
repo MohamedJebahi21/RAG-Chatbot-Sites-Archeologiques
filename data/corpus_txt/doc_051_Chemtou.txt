@@ -1,0 +1,32 @@
+================================================================================
+DOCUMENT #51
+================================================================================
+
+MÉTADONNÉES:
+--------------------------------------------------------------------------------
+Titre: Chemtou
+Site: Chemtou
+Période: Romain, Berbère
+Source: Wikipedia EN
+Type: encyclopedia
+Langue: en
+URL: https://en.wikipedia.org/wiki/Chemtou
+Date de collecte: 2025-12-11T20:37:36.099453
+Nombre de mots: 30
+--------------------------------------------------------------------------------
+
+CONTENU:
+================================================================================
+
+Chemtou or Chimtou was an ancient Roman-Berber town in northwestern Tunisia, located 20 km from the city of Jendouba near the Algerian frontier. It was known as Simitthu in antiquity.
+
+
+================================================================================
+SECTIONS:
+================================================================================
+
+
+[Introduction]
+--------------------------------------------------------------------------------
+Chemtou or Chimtou was an ancient Roman-Berber town in northwestern Tunisia, located 20 km from the city of Jendouba near the Algerian frontier
+It was known as Simitthu in antiquity

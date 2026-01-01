@@ -1,0 +1,33 @@
+================================================================================
+DOCUMENT #22
+================================================================================
+
+MÉTADONNÉES:
+--------------------------------------------------------------------------------
+Titre: Wikivoyage - Matmata
+Site: Matmata
+Période: Non spécifié
+Source: Wikivoyage FR
+Type: travel_guide
+Langue: fr
+URL: https://fr.wikivoyage.org/wiki/Matmata
+Date de collecte: 2025-12-11T20:36:51.140220
+Nombre de mots: 36
+--------------------------------------------------------------------------------
+
+CONTENU:
+================================================================================
+
+Matmata est un village de la Côte centrale tunisienne, en Tunisie. Il est célèbre pour ses grottes et habitations troglodytiques. Des scènes d'un certain nombre de films de la série Star Wars ont été tournées ici.
+
+
+================================================================================
+SECTIONS:
+================================================================================
+
+
+[Introduction]
+--------------------------------------------------------------------------------
+Matmata est un village de la Côte centrale tunisienne, en Tunisie
+Il est célèbre pour ses grottes et habitations troglodytiques
+Des scènes d'un certain nombre de films de la série Star Wars ont été tournées ici

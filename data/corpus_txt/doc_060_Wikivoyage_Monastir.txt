@@ -1,0 +1,32 @@
+================================================================================
+DOCUMENT #60
+================================================================================
+
+MÉTADONNÉES:
+--------------------------------------------------------------------------------
+Titre: Wikivoyage - Monastir
+Site: Monastir
+Période: Non spécifié
+Source: Wikivoyage EN
+Type: travel_guide
+Langue: en
+URL: https://en.wikivoyage.org/wiki/Monastir
+Date de collecte: 2025-12-11T20:37:49.799174
+Nombre de mots: 46
+--------------------------------------------------------------------------------
+
+CONTENU:
+================================================================================
+
+Monastir is a city in Tunisia 160 km from Tunis. Set along a superb coastline with a blue sea and long golden sandy beaches, Monastir is a pleasant seaside resort, a historical town full of tradition and one of the best tourist destinations in Northern Africa.
+
+
+================================================================================
+SECTIONS:
+================================================================================
+
+
+[Introduction]
+--------------------------------------------------------------------------------
+Monastir is a city in Tunisia 160 km from Tunis
+Set along a superb coastline with a blue sea and long golden sandy beaches, Monastir is a pleasant seaside resort, a historical town full of tradition and one of the best tourist destinations in Northern Africa

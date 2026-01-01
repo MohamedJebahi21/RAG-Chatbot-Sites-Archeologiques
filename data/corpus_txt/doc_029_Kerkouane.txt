@@ -1,0 +1,34 @@
+================================================================================
+DOCUMENT #29
+================================================================================
+
+MÉTADONNÉES:
+--------------------------------------------------------------------------------
+Titre: Kerkouane
+Site: Kerkouane
+Période: Punique, Romain
+Source: Wikipedia EN
+Type: encyclopedia
+Langue: en
+URL: https://en.wikipedia.org/wiki/Kerkouane
+Date de collecte: 2025-12-11T20:37:01.575156
+Nombre de mots: 56
+--------------------------------------------------------------------------------
+
+CONTENU:
+================================================================================
+
+Kerkouane or Kerkuane is the site of an ancient Punic city in north-eastern Tunisia, near Cape Bon. Kerkouane was one of the most important Punic cities, with Carthage, Hadrumetum, and Utica. This Phoenician city was probably abandoned during the First Punic War and was not rebuilt by the Romans. It had existed for almost 400 years.
+
+
+================================================================================
+SECTIONS:
+================================================================================
+
+
+[Introduction]
+--------------------------------------------------------------------------------
+Kerkouane or Kerkuane is the site of an ancient Punic city in north-eastern Tunisia, near Cape Bon
+Kerkouane was one of the most important Punic cities, with Carthage, Hadrumetum, and Utica
+This Phoenician city was probably abandoned during the First Punic War and was not rebuilt by the Romans
+It had existed for almost 400 years

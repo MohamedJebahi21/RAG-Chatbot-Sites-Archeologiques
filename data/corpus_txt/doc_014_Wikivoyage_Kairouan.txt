@@ -1,0 +1,34 @@
+================================================================================
+DOCUMENT #14
+================================================================================
+
+MÉTADONNÉES:
+--------------------------------------------------------------------------------
+Titre: Wikivoyage - Kairouan
+Site: Kairouan
+Période: Non spécifié
+Source: Wikivoyage EN
+Type: travel_guide
+Langue: en
+URL: https://en.wikivoyage.org/wiki/Kairouan
+Date de collecte: 2025-12-11T20:36:35.672993
+Nombre de mots: 60
+--------------------------------------------------------------------------------
+
+CONTENU:
+================================================================================
+
+Kairouan, sometimes spelled Kairwan, Kayrawan or Al Qayrawan, is a city in Tunisia. It's a holy city in Islam, ranking fourth after Mecca, Medina and Jerusalem as a place of pilgrimage. Reputedly seven visits here are the equivalent of one to Mecca. With its large mosques and rich cultural history it has been designated as a UNESCO World Heritage Site.
+
+
+================================================================================
+SECTIONS:
+================================================================================
+
+
+[Introduction]
+--------------------------------------------------------------------------------
+Kairouan, sometimes spelled Kairwan, Kayrawan or Al Qayrawan, is a city in Tunisia
+It's a holy city in Islam, ranking fourth after Mecca, Medina and Jerusalem as a place of pilgrimage
+Reputedly seven visits here are the equivalent of one to Mecca
+With its large mosques and rich cultural history it has been designated as a UNESCO World Heritage Site

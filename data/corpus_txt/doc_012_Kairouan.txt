@@ -1,0 +1,33 @@
+================================================================================
+DOCUMENT #12
+================================================================================
+
+MÉTADONNÉES:
+--------------------------------------------------------------------------------
+Titre: Kairouan
+Site: Kairouan
+Période: Non spécifié
+Source: Wikipedia FR
+Type: encyclopedia
+Langue: fr
+URL: https://fr.wikipedia.org/wiki/Kairouan
+Date de collecte: 2025-12-11T20:36:33.490534
+Nombre de mots: 59
+--------------------------------------------------------------------------------
+
+CONTENU:
+================================================================================
+
+Kairouan est une ville du centre de la Tunisie et le chef-lieu du gouvernorat du même nom. Elle se situe à 150 kilomètres au sud-ouest de Tunis et 50 kilomètres à l'ouest de Sousse. Peuplée de 139 070 habitants en 2014, elle est souvent désignée comme la quatrième ville sainte de l'islam et la première ville sainte du Maghreb.
+
+
+================================================================================
+SECTIONS:
+================================================================================
+
+
+[Introduction]
+--------------------------------------------------------------------------------
+Kairouan est une ville du centre de la Tunisie et le chef-lieu du gouvernorat du même nom
+Elle se situe à 150 kilomètres au sud-ouest de Tunis et 50 kilomètres à l'ouest de Sousse
+Peuplée de 139 070 habitants en 2014, elle est souvent désignée comme la quatrième ville sainte de l'islam et la première ville sainte du Maghreb

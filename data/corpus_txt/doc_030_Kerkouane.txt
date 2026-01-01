@@ -1,0 +1,31 @@
+================================================================================
+DOCUMENT #30
+================================================================================
+
+MÉTADONNÉES:
+--------------------------------------------------------------------------------
+Titre: Kerkouane
+Site: Kerkouane
+Période: Non spécifié
+Source: Wikipedia FR
+Type: encyclopedia
+Langue: fr
+URL: https://fr.wikipedia.org/wiki/Kerkouane
+Date de collecte: 2025-12-11T20:37:02.386175
+Nombre de mots: 25
+--------------------------------------------------------------------------------
+
+CONTENU:
+================================================================================
+
+Kerkouane est un site antique tunisien situé sur la côte orientale de la péninsule du cap Bon, à six kilomètres au nord de Hammam Ghezèze.
+
+
+================================================================================
+SECTIONS:
+================================================================================
+
+
+[Introduction]
+--------------------------------------------------------------------------------
+Kerkouane est un site antique tunisien situé sur la côte orientale de la péninsule du cap Bon, à six kilomètres au nord de Hammam Ghezèze

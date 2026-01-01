@@ -1,0 +1,32 @@
+================================================================================
+DOCUMENT #3
+================================================================================
+
+MÉTADONNÉES:
+--------------------------------------------------------------------------------
+Titre: Wikivoyage - Carthage
+Site: Carthage
+Période: Non spécifié
+Source: Wikivoyage FR
+Type: travel_guide
+Langue: fr
+URL: https://fr.wikivoyage.org/wiki/Carthage
+Date de collecte: 2025-12-11T20:36:23.530596
+Nombre de mots: 21
+--------------------------------------------------------------------------------
+
+CONTENU:
+================================================================================
+
+Carthage est une ville du Nord tunisien, en Tunisie. Célèbre pour ses ruines, elle est située à 15 km de Tunis.
+
+
+================================================================================
+SECTIONS:
+================================================================================
+
+
+[Introduction]
+--------------------------------------------------------------------------------
+Carthage est une ville du Nord tunisien, en Tunisie
+Célèbre pour ses ruines, elle est située à 15 km de Tunis

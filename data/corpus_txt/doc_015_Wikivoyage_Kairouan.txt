@@ -1,0 +1,36 @@
+================================================================================
+DOCUMENT #15
+================================================================================
+
+MÉTADONNÉES:
+--------------------------------------------------------------------------------
+Titre: Wikivoyage - Kairouan
+Site: Kairouan
+Période: Islamique
+Source: Wikivoyage FR
+Type: travel_guide
+Langue: fr
+URL: https://fr.wikivoyage.org/wiki/Kairouan
+Date de collecte: 2025-12-11T20:36:36.974217
+Nombre de mots: 80
+--------------------------------------------------------------------------------
+
+CONTENU:
+================================================================================
+
+Kairouan est une ville du Nord tunisien, en Tunisie. C'est, avec La Mecque, Médine et Jérusalem, la quatrième ville sainte de l'islam, et, donc, la ville islamique la plus importante d'Afrique du Nord. Elle porte le surnom de "ville aux 300 mosquées". C'est un lieu de pèlerinage réputé. On dit que sept visites ici sont l'équivalent d'une à La Mecque. Ses grandes mosquées et son histoire culturelle lui ont valu une inscription à la Liste du patrimoine mondial de l'UNESCO.
+
+
+================================================================================
+SECTIONS:
+================================================================================
+
+
+[Introduction]
+--------------------------------------------------------------------------------
+Kairouan est une ville du Nord tunisien, en Tunisie
+C'est, avec La Mecque, Médine et Jérusalem, la quatrième ville sainte de l'islam, et, donc, la ville islamique la plus importante d'Afrique du Nord
+Elle porte le surnom de "ville aux 300 mosquées"
+C'est un lieu de pèlerinage réputé
+On dit que sept visites ici sont l'équivalent d'une à La Mecque
+Ses grandes mosquées et son histoire culturelle lui ont valu une inscription à la Liste du patrimoine mondial de l'UNESCO

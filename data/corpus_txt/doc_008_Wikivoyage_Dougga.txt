@@ -1,0 +1,31 @@
+================================================================================
+DOCUMENT #8
+================================================================================
+
+MÉTADONNÉES:
+--------------------------------------------------------------------------------
+Titre: Wikivoyage - Dougga
+Site: Dougga
+Période: Romain
+Source: Wikivoyage FR
+Type: travel_guide
+Langue: fr
+URL: https://fr.wikivoyage.org/wiki/Dougga
+Date de collecte: 2025-12-11T20:36:27.860197
+Nombre de mots: 23
+--------------------------------------------------------------------------------
+
+CONTENU:
+================================================================================
+
+Dougga est une petite ville du Nord tunisien, en Tunisie, qui abrite les restes d'une ville romaine inscrite au patrimoine mondial de l'UNESCO.
+
+
+================================================================================
+SECTIONS:
+================================================================================
+
+
+[Introduction]
+--------------------------------------------------------------------------------
+Dougga est une petite ville du Nord tunisien, en Tunisie, qui abrite les restes d'une ville romaine inscrite au patrimoine mondial de l'UNESCO

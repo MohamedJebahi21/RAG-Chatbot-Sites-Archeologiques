@@ -1,0 +1,33 @@
+================================================================================
+DOCUMENT #11
+================================================================================
+
+MÉTADONNÉES:
+--------------------------------------------------------------------------------
+Titre: Kairouan
+Site: Kairouan
+Période: Islamique
+Source: Wikipedia EN
+Type: encyclopedia
+Langue: en
+URL: https://en.wikipedia.org/wiki/Kairouan
+Date de collecte: 2025-12-11T20:36:32.690897
+Nombre de mots: 70
+--------------------------------------------------------------------------------
+
+CONTENU:
+================================================================================
+
+Kairouan, also spelled El Qayrawān or Kairwan, is the capital of the Kairouan Governorate in Tunisia and a UNESCO World Heritage Site. The city was founded by the Umayyads around 670, in the period of Caliph Mu'awiya ; this is when it became an important centre for Sunni Islamic scholarship and Quranic learning, attracting Muslims from various parts of the world. The Mosque of Uqba is situated in the city.
+
+
+================================================================================
+SECTIONS:
+================================================================================
+
+
+[Introduction]
+--------------------------------------------------------------------------------
+Kairouan, also spelled El Qayrawān or Kairwan, is the capital of the Kairouan Governorate in Tunisia and a UNESCO World Heritage Site
+The city was founded by the Umayyads around 670, in the period of Caliph Mu'awiya ; this is when it became an important centre for Sunni Islamic scholarship and Quranic learning, attracting Muslims from various parts of the world
+The Mosque of Uqba is situated in the city

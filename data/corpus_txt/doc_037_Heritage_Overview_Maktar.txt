@@ -1,0 +1,31 @@
+================================================================================
+DOCUMENT #37
+================================================================================
+
+MÉTADONNÉES:
+--------------------------------------------------------------------------------
+Titre: Heritage Overview - Maktar
+Site: Maktar
+Période: Non spécifié
+Source: Heritage Documentation
+Type: heritage_documentation
+Langue: en
+URL: 
+Date de collecte: 2025-12-11T20:37:14.938247
+Nombre de mots: 10
+--------------------------------------------------------------------------------
+
+CONTENU:
+================================================================================
+
+Important archaeological and heritage site in Tunisia with historical significance.
+
+
+================================================================================
+SECTIONS:
+================================================================================
+
+
+[Overview]
+--------------------------------------------------------------------------------
+Important archaeological and heritage site in Tunisia with historical significance.

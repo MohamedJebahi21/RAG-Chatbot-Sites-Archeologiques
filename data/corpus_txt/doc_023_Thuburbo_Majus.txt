@@ -1,0 +1,35 @@
+================================================================================
+DOCUMENT #23
+================================================================================
+
+MÉTADONNÉES:
+--------------------------------------------------------------------------------
+Titre: Thuburbo Majus
+Site: Thuburbo Majus
+Période: Romain
+Source: Wikipedia EN
+Type: encyclopedia
+Langue: en
+URL: https://en.wikipedia.org/wiki/Thuburbo_Majus
+Date de collecte: 2025-12-11T20:36:51.404705
+Nombre de mots: 55
+--------------------------------------------------------------------------------
+
+CONTENU:
+================================================================================
+
+Thuburbo Majus is a large Roman site in northern Tunisia. It is located roughly 60 km southwest of Carthage on a major African thoroughfare. This thoroughfare connects Carthage to the Sahara. Other towns along the way included Sbiba, Sufes, Sbeitla, and Sufetula. Parts of the old Roman road are in ruins, but others do remain.
+
+
+================================================================================
+SECTIONS:
+================================================================================
+
+
+[Introduction]
+--------------------------------------------------------------------------------
+Thuburbo Majus is a large Roman site in northern Tunisia
+It is located roughly 60 km southwest of Carthage on a major African thoroughfare
+This thoroughfare connects Carthage to the Sahara
+Other towns along the way included Sbiba, Sufes, Sbeitla, and Sufetula
+Parts of the old Roman road are in ruins, but others do remain

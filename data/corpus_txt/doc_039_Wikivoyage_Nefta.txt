@@ -1,0 +1,32 @@
+================================================================================
+DOCUMENT #39
+================================================================================
+
+MÉTADONNÉES:
+--------------------------------------------------------------------------------
+Titre: Wikivoyage - Nefta
+Site: Nefta
+Période: Non spécifié
+Source: Wikivoyage EN
+Type: travel_guide
+Langue: en
+URL: https://en.wikivoyage.org/wiki/Nefta
+Date de collecte: 2025-12-11T20:37:18.265442
+Nombre de mots: 43
+--------------------------------------------------------------------------------
+
+CONTENU:
+================================================================================
+
+Nefta is a city in the south of Tunisia, near the Algerian border. Many tourists will come to Nefta to visit nearby sites that can just as easily be visited from Tozeur, which has far more options in terms of hotels and restaurants.
+
+
+================================================================================
+SECTIONS:
+================================================================================
+
+
+[Introduction]
+--------------------------------------------------------------------------------
+Nefta is a city in the south of Tunisia, near the Algerian border
+Many tourists will come to Nefta to visit nearby sites that can just as easily be visited from Tozeur, which has far more options in terms of hotels and restaurants
